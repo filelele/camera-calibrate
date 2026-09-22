@@ -8,6 +8,7 @@ Example calibration chessboard capture
 * Capture device:
   Device: Honor x9b 5G 
   OS: Android 
+  CameraID: 0
   Res: 640x480 
   Focus: 0.4m 
   ISO: 6400 
